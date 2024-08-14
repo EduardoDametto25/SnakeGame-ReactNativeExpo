@@ -1,0 +1,2 @@
+git config --global user.name EduardoDametto25
+git config --global user.email damettoed@gmail.com
